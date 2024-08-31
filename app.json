@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "Jawbs",
-    "slug": "Jawbs"
+    "slug": "Jawbs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a9e50ad5-7534-4c18-87e1-115205f9569a"
+      }
+    },
+    "android": {
+      "package": "com.muz4mmil.Jawbs"
+    }
   }
 }
